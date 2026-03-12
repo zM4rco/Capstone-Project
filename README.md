@@ -1,4 +1,4 @@
-Hi welcome to my Capstone Project.
+Hi, welcome to my Capstone Project.
 
 What was the purpose of this project?
 
