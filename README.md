@@ -8,4 +8,4 @@ Why?
 
 The reliance on wireless networks means that many challenges arise for network administrators such as traffic management, identifying dead zones and mitigating unauthorized users. 
 It also means that they become a huge target for hackers / malicious users who may exploit these networks by installing rogue access points that intercept network traffic or evil twins that simulate a legitimate Wi-Fi connection.
-Therefore, the Wi-Fi heatmapping tool will serve the role of addressing these issues by providing methods to pinpoint the exact location of these access points and map out the network coverage environment.
+Therefore, the Wi-Fi heatmapping tool will serve the role of addressing these issues by providing methods to pinpoint the exact location of these access points while also heatmapping the network coverage of the environment.
